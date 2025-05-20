@@ -21,6 +21,7 @@ In OBS, click on the add button in the Sources pannel
 Python >= v3.9 is necessary
 
 > pip install flask flask-cors
+
 > pip install obsws-python==1.7.2
 
 # Run the webserver
